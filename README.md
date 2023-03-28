@@ -3,12 +3,6 @@
 
 - **Soy una persona apasionada por el aprendizaje continuo y autodidacta, lo que me ha permitido desarrollar habilidades en el campo de la programación y el desarrollo web. Desde siempre, he estado interesado en la tecnología y, por esa razón, he decidido darle un giro a mi carrera profesional para adentrarme en el mundo IT. Como Full Stack Developer, me he especializado en el desarrollo de aplicaciones web, trabajando con diferentes tecnologías y lenguajes de programación, como HTML, CSS, JavaScript, React, Redux, Node.js, Express, PostgreSQL, MongoDB, entre otros.**
 
-- ¿Quieres contactarme?  **ihilario00qgmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/isidoro-francisco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="isidoro-francisco" height="30" width="40" /></a>
-</p>
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -67,30 +61,3 @@
 <br/>  
 
 
-## Recent Blog Posts  
-  
-
-<br/>  
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=FranciscoHIDev&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-<div align="center">
-            <a href="https://www.buymeacoffee.com/rishavanand" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
