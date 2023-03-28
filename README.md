@@ -1,7 +1,7 @@
-<h1 align="center">Hola 👋, Soy Isidoro Francisco</h1>
+<h1 align="center">Hi 👋, I'am Isidoro Francisco</h1>
 <h3 align="center">Full Stack Developer</h3>
 
- **Soy una persona apasionada por el aprendizaje continuo y autodidacta, lo que me ha permitido desarrollar habilidades en el campo de la programación y el desarrollo web. Desde siempre, he estado interesado en la tecnología y, por esa razón, he decidido darle un giro a mi carrera profesional para adentrarme en el mundo IT. Como Full Stack Developer, me he especializado en el desarrollo de aplicaciones web, trabajando con diferentes tecnologías y lenguajes de programación, como HTML, CSS, JavaScript, React, Redux, Node.js, Express, PostgreSQL, MongoDB, entre otros.**
+ **I am passionate about continuous learning and self-taught, which has allowed me to develop skills in the field of programming and web development. I have always been interested in technology and, for that reason, I have decided to turn my professional career around to enter the IT world. As a Full Stack Developer, I have specialized in the development of web applications, working with different technologies and programming languages, such as HTML, CSS, JavaScript, React, Redux, Node.js, Express, PostgreSQL, MongoDB, among others.**
 
 
 ## My Skill Set  
